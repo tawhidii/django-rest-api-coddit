@@ -5,6 +5,7 @@
 __pycache__/
 db.sqlite3
 db.sqlite3-journal
+*.sqlite3
 env/
 geo_ip/
 .vscode/
